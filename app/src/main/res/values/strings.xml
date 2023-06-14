@@ -1,0 +1,14 @@
+<resources>
+    <string name="logout">Log Out</string>
+    <string name="app_name">JWT Test</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_acc">Create A New Account</string>
+    <string name="login">Login To Your Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_psswd">Forgot Password?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
